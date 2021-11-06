@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-demo/static/css/main.a5641684.chunk.css",
+    "main.js": "/react-demo/static/js/main.2c8a4e2b.chunk.js",
+    "main.js.map": "/react-demo/static/js/main.2c8a4e2b.chunk.js.map",
+    "runtime-main.js": "/react-demo/static/js/runtime-main.0899005b.js",
+    "runtime-main.js.map": "/react-demo/static/js/runtime-main.0899005b.js.map",
+    "static/js/2.5b9f5766.chunk.js": "/react-demo/static/js/2.5b9f5766.chunk.js",
+    "static/js/2.5b9f5766.chunk.js.map": "/react-demo/static/js/2.5b9f5766.chunk.js.map",
+    "static/js/3.5370ea69.chunk.js": "/react-demo/static/js/3.5370ea69.chunk.js",
+    "static/js/3.5370ea69.chunk.js.map": "/react-demo/static/js/3.5370ea69.chunk.js.map",
+    "index.html": "/react-demo/index.html",
+    "static/css/main.a5641684.chunk.css.map": "/react-demo/static/css/main.a5641684.chunk.css.map",
+    "static/js/2.5b9f5766.chunk.js.LICENSE.txt": "/react-demo/static/js/2.5b9f5766.chunk.js.LICENSE.txt",
+    "static/media/24-hours.562caff4.png": "/react-demo/static/media/24-hours.562caff4.png",
+    "static/media/abhaya-mudra.59d1c5a3.png": "/react-demo/static/media/abhaya-mudra.59d1c5a3.png",
+    "static/media/bank-terminal.442ea11f.png": "/react-demo/static/media/bank-terminal.442ea11f.png",
+    "static/media/clothes.191dea59.png": "/react-demo/static/media/clothes.191dea59.png",
+    "static/media/heart.ba7ff4ea.png": "/react-demo/static/media/heart.ba7ff4ea.png",
+    "static/media/paypal.868dbcc3.png": "/react-demo/static/media/paypal.868dbcc3.png",
+    "static/media/purse.42501ecb.png": "/react-demo/static/media/purse.42501ecb.png",
+    "static/media/symbols.db9022da.png": "/react-demo/static/media/symbols.db9022da.png",
+    "static/media/visa-logo.be060a7d.png": "/react-demo/static/media/visa-logo.be060a7d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0899005b.js",
+    "static/js/2.5b9f5766.chunk.js",
+    "static/css/main.a5641684.chunk.css",
+    "static/js/main.2c8a4e2b.chunk.js"
+  ]
+}
